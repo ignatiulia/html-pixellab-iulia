@@ -1,0 +1,49 @@
+p i {
+color: red;
+}
+
+.line {
+  text-decoration:underline;
+}
+
+.links a {
+  text-decoration:none;
+}
+
+a {
+  color: green;
+}
+
+a[href^="http://"]
+{
+  color: red;
+}
+
+p .line {
+  color: grey;
+}
+
+b {
+  color: purple;
+  text-decoration: underline purple;
+}
+/* nu intelegeam ce nu am facut bine aici, dupa juma de ora mi am dat seama ca am pus violet in loc de purple..*/
+
+.odd .line {
+  color: blue;
+}
+
+.odd i {
+  text-decoration: underline;
+}
+
+.even b {
+  text-decoration: underline;
+}
+
+a[href$=".com"]
+{
+  color: black;
+}
+
+
