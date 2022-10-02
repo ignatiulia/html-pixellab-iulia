@@ -1,8 +1,8 @@
 /* fonts */
 @font-face {
   font-family: 'Julius Sans One';
-  src: url('JuliusSansOne-Regular.woff2') format('woff2'),
-      url('JuliusSansOne-Regular.woff') format('woff');
+  src: url('../fonts/JuliusSansOne-Regular.woff2') format('woff2'),
+      url('../fonts/JuliusSansOne-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -10,8 +10,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Light.woff2') format('woff2'),
-      url('Roboto-Light.woff') format('woff');
+  src: url('../fonts/Roboto-Light.woff2') format('woff2'),
+      url('../fonts/Roboto-Light.woff') format('woff');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -19,8 +19,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Black.woff2') format('woff2'),
-      url('Roboto-Black.woff') format('woff');
+  src: url('../fonts/Roboto-Black.woff2') format('woff2'),
+      url('../fonts/Roboto-Black.woff') format('woff');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -28,8 +28,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-MediumItalic.woff2') format('woff2'),
-      url('Roboto-MediumItalic.woff') format('woff');
+  src: url('../fonts/Roboto-MediumItalic.woff2') format('woff2'),
+      url('../fonts/Roboto-MediumItalic.woff') format('woff');
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -37,8 +37,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-BlackItalic.woff2') format('woff2'),
-      url('Roboto-BlackItalic.woff') format('woff');
+  src: url('../fonts/Roboto-BlackItalic.woff2') format('woff2'),
+      url('../fonts/Roboto-BlackItalic.woff') format('woff');
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -46,8 +46,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Thin.woff2') format('woff2'),
-      url('Roboto-Thin.woff') format('woff');
+  src: url('../fonts/Roboto-Thin.woff2') format('woff2'),
+      url('../fonts/Roboto-Thin.woff') format('woff');
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -55,8 +55,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Regular.woff2') format('woff2'),
-      url('Roboto-Regular.woff') format('woff');
+  src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+      url('../fonts/Roboto-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -64,8 +64,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Bold.woff2') format('woff2'),
-      url('Roboto-Bold.woff') format('woff');
+  src: url('../fonts/Roboto-Bold.woff2') format('woff2'),
+      url('../fonts/Roboto-Bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -73,8 +73,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-LightItalic.woff2') format('woff2'),
-      url('Roboto-LightItalic.woff') format('woff');
+  src: url('../fonts/Roboto-LightItalic.woff2') format('woff2'),
+      url('../fonts/Roboto-LightItalic.woff') format('woff');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -82,8 +82,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Italic.woff2') format('woff2'),
-      url('Roboto-Italic.woff') format('woff');
+  src: url('../fonts/Roboto-Italic.woff2') format('woff2'),
+      url('../fonts/Roboto-Italic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -91,8 +91,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-BoldItalic.woff2') format('woff2'),
-      url('Roboto-BoldItalic.woff') format('woff');
+  src: url('../fonts/Roboto-BoldItalic.woff2') format('woff2'),
+      url('../fonts/Roboto-BoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -100,8 +100,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-ThinItalic.woff2') format('woff2'),
-      url('Roboto-ThinItalic.woff') format('woff');
+  src: url('../fonts/Roboto-ThinItalic.woff2') format('woff2'),
+      url('../fonts/Roboto-ThinItalic.woff') format('woff');
   font-weight: 100;
   font-style: italic;
   font-display: swap;
@@ -109,8 +109,8 @@
 
 @font-face {
   font-family: 'Roboto';
-  src: url('Roboto-Medium.woff2') format('woff2'),
-      url('Roboto-Medium.woff') format('woff');
+  src: url('../fonts/Roboto-Medium.woff2') format('woff2'),
+      url('../fonts/Roboto-Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -118,8 +118,8 @@
 
 @font-face {
   font-family: 'Playfair Display';
-  src: url('PlayfairDisplay-Italic.woff2') format('woff2'),
-      url('PlayfairDisplay-Italic.woff') format('woff');
+  src: url('../fonts/PlayfairDisplay-Italic.woff2') format('woff2'),
+      url('../fonts/PlayfairDisplay-Italic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -127,8 +127,8 @@
 
 @font-face {
   font-family: 'Playfair Display';
-  src: url('PlayfairDisplay-Regular.woff2') format('woff2'),
-      url('PlayfairDisplay-Regular.woff') format('woff');
+  src: url('../fonts/PlayfairDisplay-Regular.woff2') format('woff2'),
+      url('../fonts/PlayfairDisplay-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -191,15 +191,242 @@ table {
 }
 
 body {
-  font-family: 'Playfair';
+  font-family: 'Playfair Display';
   color: #2B2B2B
 }
-
-/* add reset */
-/* add custom resets box sizing anchors ul li  */
 
 a {
   color: inherit;
   text-decoration: none;
 }
 
+.container {
+  max-width: 1356px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* header */
+.header {
+  max-width: 1920px;
+  background: #2B2B2B url('../images/banner/banner.png') center center / cover no-repeat;
+  height: 500px;
+}
+
+.header-secondary {
+  display: block;
+  width: 100%;
+  height: 460px;
+  color: #fff;
+  font-size: 24px;
+  margin: 0 auto;
+  max-width: 1356px;
+  padding-top: 50px;
+}
+
+.header-secondary-inner ul {
+  max-width: 1356px;
+  margin: 0 auto;
+  font-size: 24px;
+}
+
+.header-secondary .header-connect  {
+  margin-left: 130px;
+}
+
+.header-secondary .header-connect li {
+  float: left;
+  text-transform: uppercase;
+  padding-right: 15px;
+}
+
+.header-secondary .header-controls {
+  float: right;
+  margin-right: 130px;
+}
+
+.header-secondary .header-controls li {
+  color: #2B2B2B;
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.header-secondary .header-controls form {
+  border: 1px solid #cccc;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.header-secondary .header-controls button {
+  background: none;
+  border: none;
+}
+
+.header-secondary .header-controls input {
+  background: none;
+  border: none;
+}
+
+.header-primary {
+  background-color: #2B2B2B;
+  color: #e8e8e8;
+  height: 40px;
+  font-size: 20px;
+}
+
+.nav-primary ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+/* header */
+
+/* footer */
+
+.footer {
+  background-color: #e8e8e8;
+  color: #2B2B2B;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.footer-inner {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.footer-inner ul {
+  padding-right: 100px;
+}
+
+
+.footer-inner .footer-nav {
+  display: flex;
+  align-items: top;
+}
+
+.footer-connect .footer-social li {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.footer-connect .footer-newsletter input {
+  font-style: italic;
+}
+
+.footer-connect .footer-newsletter a {
+  text-decoration: underline;
+}
+
+.footer-connect .footer-newsletter .terms {
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.footer-connect .footer-newsletter button {
+  background: none;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  border: 1px solid #2B2B2B;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+/* footer */
+
+/* homepage */
+.home-catalog-preview h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: #2B2B2B;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.home-catalog-preview h1::before {
+  border: 1px solid #cccccc;
+  content: '';
+  display: block;
+  margin-bottom: 20px;
+}
+
+.home-catalog-preview ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-catalog-preview ul li {
+  width: 33%;
+}
+
+.home-catalog-preview .product-tile {
+  width: 100%;
+}
+
+.product-tile a:nth-child(2) {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.product-tile {
+  font-size: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 35px;
+  margin-bottom: 32px;
+}
+
+.product-tile .product-tile-image {
+  position: relative;
+}
+
+.home-catalog-preview a[title*='All'] {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-size: 20px;
+  font-family: 'Roboto';
+  text-transform: lowercase;
+  margin-bottom: 60px;
+}
+
+.home-content {
+  display: inline-block;
+  font-size: 24px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.home-content p {
+  font-family: 'Roboto';
+  padding-top: 50px;
+  text-align: justify;
+  line-height: 40px;
+}
+
+.home-content h1 {
+  font-size: 50px;
+  padding-top: 10px;
+}
+
+.home-content aside {
+  float: left;
+  margin-right: 70px;
+}
+/* homepage */
